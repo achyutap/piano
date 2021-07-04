@@ -1,0 +1,16 @@
+html, body{
+  margin:0;
+  padding:0;
+  height: 100%;
+}
+.container{
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+.key{
+  background-color: red;
+  width: 150px;
+  border: 1px solid black;
+  height: 500px;
+}
